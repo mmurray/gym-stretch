@@ -2,6 +2,8 @@
 
 A gym environment for Hello Robot Stretch
 
+<img src="https://github.com/mmurray/gym-stretch/blob/main/assets/stretch_mujoco_block_with_cams_short.gif?raw=true" width="50%" alt="Stretch env block lift task"/>
+
 
 ## Installation
 
